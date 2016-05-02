@@ -13,7 +13,8 @@ All characters work, but are misaligned and are of the wrong size. The list of p
 - [ ] Consolas Bold Italic
 
 # Screenshots
-[Zsh screenshot 1](/screenshots/zsh-screen1.png)
+![Zsh screenshot 1](/screenshots/zsh-screen1.png)
+
 ConsolasForPowerline with [Zsh](http://www.zsh.org/) and the [Powerlevel9k](https://github.com/bhilburn/powerlevel9k/) theme.
 
 # Installation
