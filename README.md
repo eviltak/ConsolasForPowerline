@@ -3,11 +3,11 @@ A [Powerline](https://github.com/powerline/powerline) patched version of the gre
 
 # Supported Characters and Versions
 All characters work, but are misaligned and are of the wrong size. The list of patched characters follows:
-- Left Segment Separator: "\uE0B0" (by @AravSinghal)
-- Right Segment Separator: "\uE0B2" (by @AravSinghal)
+- Left Segment Separator: "\uE0B0" (by @eviltak)
+- Right Segment Separator: "\uE0B2" (by @eviltak)
 
 ## Versions available:
-- [x] Consolas Regular (by @AravSinghal)
+- [x] Consolas Regular (by @eviltak)
 - [ ] Consolas Bold
 - [ ] Consolas Italic
 - [ ] Consolas Bold Italic
