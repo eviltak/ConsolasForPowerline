@@ -1,5 +1,5 @@
 # Consolas For Powerline
-A [Powerline](https://github.com/powerline/powerline) patched version of the greatest monospaced font ever. Repatched and fixed (and soon to be extended) version of [powerline-consolas](https://github.com/nicolalamacchia/powerline-consolas)
+A [Powerline](https://github.com/powerline/powerline) patched version of the second greatest monospaced font ever. Repatched and fixed (and soon to be extended) version of [powerline-consolas](https://github.com/nicolalamacchia/powerline-consolas)
 
 # Supported Characters and Versions
 All characters work, but are misaligned and are of the wrong size. The list of patched characters follows:
